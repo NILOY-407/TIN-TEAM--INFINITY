@@ -23,6 +23,6 @@ $$/   $$/ $$/   $$/ $$/   $$/ $$$$$$/ $$$$$$$/
                                                 
                                                 
 
-echo -e '\033[1;92m' "<═══════════════Created By 'MrHacker-X'═══════════════>"
+echo -e '\033[1;92m' "<═══════════════Created By 'MD.NAHIDUL ISLAM'═══════════════>"
 date | lolcat
 python /data/data/com.termux/files/usr/etc/lib/2nd.py
