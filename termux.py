@@ -24,4 +24,4 @@ $$/   $$/ $$/   $$/ $$/   $$/ $$$$$$/ $$$$$$$/
                                                 
                                                 
 ""\n")
-delay_print (""+G+" <═══════════════Created By 'MrHacker-X'═══════════════>""\n")
+delay_print (""+G+" <═══════════════Created By 'MD.NAHIDIL ISLAM'═══════════════>""\n")
